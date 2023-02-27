@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d588d933.css",
-    "main.js": "/static/js/main.bd24a8ac.js",
-    "static/js/787.5d7b65c0.chunk.js": "/static/js/787.5d7b65c0.chunk.js",
-    "index.html": "/index.html",
-    "main.d588d933.css.map": "/static/css/main.d588d933.css.map",
-    "main.bd24a8ac.js.map": "/static/js/main.bd24a8ac.js.map",
-    "787.5d7b65c0.chunk.js.map": "/static/js/787.5d7b65c0.chunk.js.map"
+    "main.css": "/Awesome-kanban-board/static/css/main.d588d933.css",
+    "main.js": "/Awesome-kanban-board/static/js/main.aa50fe31.js",
+    "static/js/787.5d7b65c0.chunk.js": "/Awesome-kanban-board/static/js/787.5d7b65c0.chunk.js",
+    "index.html": "/Awesome-kanban-board/index.html",
+    "main.d588d933.css.map": "/Awesome-kanban-board/static/css/main.d588d933.css.map",
+    "main.aa50fe31.js.map": "/Awesome-kanban-board/static/js/main.aa50fe31.js.map",
+    "787.5d7b65c0.chunk.js.map": "/Awesome-kanban-board/static/js/787.5d7b65c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d588d933.css",
-    "static/js/main.bd24a8ac.js"
+    "static/js/main.aa50fe31.js"
   ]
 }
