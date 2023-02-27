@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d588d933.css","mappings":"AAAA;;CAAA,29JAEA,0mCAEA,eACI,gBACA,WANJ,0D,CAAA,gC,CAAA,kD,ECAA,0BDAA,sB,CAAA,mD","sources":["index.scss","../<no source>"],"sourcesContent":["@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\n.ticket:active {\n    cursor: grabbing;\n    opacity: .7;\n}"],"names":[],"sourceRoot":""}
